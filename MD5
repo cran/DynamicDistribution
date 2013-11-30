@@ -1,0 +1,11 @@
+cda6b48f72040de0ea823c1445e4f249 *DESCRIPTION
+61ba038b5faf0281d93fff9dad051475 *NAMESPACE
+2e4665abaccecaf36b59798230a66995 *R/DynCon.R
+c8ac218e83b72236aa6ab1e6206cf716 *R/DynDis.R
+078bbf361a771b7f8f55eee03ba16358 *R/DynamicDistribution-package.r
+de0f979d370753793760478b41d6300c *R/internal.R
+edea64259d30c506fec7ad119970e204 *man/DynCon.Rd
+bfac2ca0783ccbcaf97508541735d9e4 *man/DynDis.Rd
+dc7aad9986b5565476a04fc02e6fd25a *man/DynamicDistribution-internal.Rd
+3dc51e80ba85108a8b23ffbdbde902ad *man/DynamicDistribution-package.Rd
+8adf1ddda232660f3a00701f96e3f08c *man/DynamicDistribution.Rd
