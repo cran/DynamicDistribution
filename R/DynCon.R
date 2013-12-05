@@ -79,7 +79,7 @@ function(name,par_matrix,total=c(100,100),choice='cdf',interval=0.05,const_par=c
   
   if(par_no==2)        
   {
-    if(identical(as.character(substitute(name)),F)!=T){
+    if(identical(as.character(substitute(name)),"F_dis")!=T){
       total=total
     }else{
       total[1]=1+round(par_matrix[2,1])-round(par_matrix[1,1])
